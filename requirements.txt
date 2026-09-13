@@ -1,0 +1,8 @@
+python-dotenv
+groq
+sounddevice
+scipy
+gtts
+playsound==1.2.2
+webrtcvad-wheels
+numpy
